@@ -53,7 +53,7 @@ input[type="text"] {
     font-size: 1.3em;
     font-family: monospace;
     
-    background-image: url("./default.png");
+    background-image: url("./search.png");
     background-position: center right 15px;
     background-repeat: no-repeat;
     background-color: var(--clr);
@@ -63,7 +63,7 @@ input[type="text"] {
 input[type="text"]:focus {
     color: var(--clr-font);
     border-color: var(--clr-font);
-    background-image: url("./focus.png");
+    background-image: url("./search-focus.png");
 }
 
 section {
